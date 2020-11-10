@@ -7,5 +7,4 @@ Highlighted Points:
 4) Openable side menu is created with nice transition effect.
 5) Enjoy looking at delicious turkish meals and I hope one day you get a chance to try all of them :)
 
-
-<video src="images/screen-capture.webm" width="320">
+![](images/screen-capture.webm)
