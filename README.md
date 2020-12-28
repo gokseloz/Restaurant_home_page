@@ -27,6 +27,6 @@
 </ul>
 
 ## Short Review
-<ul> 
-<li>![](images/descriptive.gif)</li>
-</ul>
+
+![](images/descriptive.gif)
+
