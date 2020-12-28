@@ -13,7 +13,6 @@
 <ul>
 <li>HTML</li>
 <li>CSS: LESS preprocessor is applied. In order to compile LESS files to CSS, node-sass with npm is utilized.</li>
-<li></li>
  </ul>
  
 ### Responsivity
